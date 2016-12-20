@@ -32,13 +32,13 @@ We include code for reading stimuli object files to numpy arrays as hkl files. W
 	X_val_200.hkl  : HKL file holding 200 stimuli objects with 10 timesteps/transformation for evaluation of the predNet training
 	X_svm_700.hkl  : HKL file holding 700 stimuli objects with 10 timesteps/transformations, 600 used for training and 100 used for testing
 	
-	Object stimuli are being read from: 
-	'/n/coxfs01/wscheirer/stimuli/Master_Set/'
-    '/n/coxfs01/wscheirer/stimuli/Set3/'
+	Object stimuli are being read from:  
+ 	'/n/coxfs01/wscheirer/stimuli/Master_Set/'  
+	'/n/coxfs01/wscheirer/stimuli/Set3/'
     
-    If hkl files already exists, no need to re-run it.
-    They can be found at:
-    /n/coxfs01/ygonzalez/prednet_similarity_hkl_data/similarity_project
+    If hkl files already exists, no need to re-run it.  
+    HKL files generated from the Notre Dame Stimuli dataset can be found at:  
+    /n/coxfs01/ygonzalez/prednet_similarity_hkl_data/similarity_project/iarpa_data/
     
 	<br>
 	<br>
